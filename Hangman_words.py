@@ -6,5 +6,7 @@ Created on Fri Apr  9 17:44:18 2021
 @author: alok
 """
 #words =['TEST']
-words = ['Sensyne Health', 'Machine Learning', 'Clinically driven','Data Engineering']
+words = ['Sensyne Health', 'Machine Learning', 'Clinically driven','Data Engineering','Alok']
+
+print('alok')
     
